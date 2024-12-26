@@ -1,0 +1,15 @@
+.subheader h6 {
+    font-weight: 400;
+    color: #171616;
+    /* color: #971919; */
+}
+
+.TextColorChange {
+    color: #14909d;
+
+}
+
+.subheader {
+    background: radial-gradient(circle at 10% 20%, rgb(255, 200, 124) 0%, rgb(255, 200, 124) 90%);
+    /* background-color: rgb(252, 251, 121) */
+}
